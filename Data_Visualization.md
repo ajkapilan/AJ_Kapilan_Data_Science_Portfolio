@@ -11,7 +11,7 @@ I tried changing the 'palette' color to 'flare' but felt bright was the best opt
 sns.displot(data=df, x='rt_clean', stat='probability', hue='flankers', col='simon', alpha = .4, kind='hist', palette='bright')
 plt.show()
 ```
-```
+
 output:
 
 ![Screenshot 2021-11-18 160407](https://user-images.githubusercontent.com/94637743/142490055-f369ccff-f443-4db2-94c9-12e65b58eefd.jpg)
