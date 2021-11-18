@@ -10,3 +10,11 @@ t, p = stats.ttest_rel(fi_si, fc_si, alternative='greater')
 print('Incongruent-Incompatible vs. Congruent-Compatible t =', str(round(t, 2)), 
       ' p = ', str(round(p, 4)))
 ```
+
+```
+t, p = stats.ttest_rel(fi_si, fi_sc, alternative='greater')
+print('Incongruent-Incompatible vs. Incongruent-Compatible t =', str(round(t, 2)), 
+      ' p = ', str(round(p, 4)))
+```
+
+![Screenshot 2021-11-18 163535](https://user-images.githubusercontent.com/94637743/142492595-f4668a35-65a2-4fd4-acf4-db53ba7582fe.jpg)
