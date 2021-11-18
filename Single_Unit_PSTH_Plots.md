@@ -35,3 +35,13 @@ fig.suptitle('m1_6 neuron')
 plt.tight_layout()
 plt.show()
 ```
+
+```
+Output:
+
+
+
+
+
+
+
