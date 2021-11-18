@@ -1,4 +1,4 @@
-# Welcome
+# AJ Kapilan Coding Portfolio
 ## Sample Works
 
 I will showcase some of my work the best higlights my coding abilites!
