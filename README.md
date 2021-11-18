@@ -1,4 +1,4 @@
-# Data_Science_Portfolio
+# AJ Kapilan Portfolio
 ## My Personal Professional Coding Portfolio
 
 If you would like to contact me please email me at:
