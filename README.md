@@ -1,2 +1,5 @@
 # Data_Science_Portfolio
-My personal professional coding Portfolio
+## My Personal Professional Coding Portfolio
+
+If you would like to contact me please email me at:
+[ajkapilan@dal.ca](mailto:ajkapilan@dal.ca)
