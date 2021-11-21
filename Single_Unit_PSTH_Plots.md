@@ -38,9 +38,5 @@ plt.show()
 
 Output:
 
-![Screenshot 2021-11-18 161752](https://user-images.githubusercontent.com/94637743/142490436-109a5cc0-05ce-4bdd-b642-6855b05bb544.jpg)
-![Screenshot 2021-11-18 161829](https://user-images.githubusercontent.com/94637743/142490452-41f2493a-efbc-4c0b-8b85-430b02c415b8.jpg)
-
-
-
+![Screenshot 2021-11-21 131200](https://user-images.githubusercontent.com/94637743/142772038-1728fc34-f7df-47a8-b346-8d04d83def99.png)
 
