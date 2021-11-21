@@ -1,4 +1,4 @@
-# AJ Kapilan Coding Portfolio
+# Welcome
 
 ## About Me
 Welcome to my Coding portfolio! I am a Third-Year Neuroscience Undergrad at Dalhousie University. All the works that have been shown to you today was made from my Data Science class. As a beginner coder/programmer I have learned alot of fun things about coding. Take a look at some of my works!
