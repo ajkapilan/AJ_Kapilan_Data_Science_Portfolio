@@ -21,7 +21,7 @@ I will showcase some of my work the best higlights my coding abilites!
 
 - I used Scipy to identify and find different statistical values. [Heres how](One_Tailed_Ttest_EDA.md). 
 
-- Using Python for [Neural Imaging Identification](
+- Using Python for [Neural Imaging Identification](Neural_Imaging.md). 
 
 If you would like to contact me please email me at:
 [ajkapilan@dal.ca](mailto:ajkapilan@dal.ca)
