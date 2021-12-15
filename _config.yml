@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
 title: AJ Kapilan Coding Portfolio
 description: AJ Kapilan's Personal Profesional Coding Portfolio 
-plugins:
-  - jemoji
+plugins: jemoji
