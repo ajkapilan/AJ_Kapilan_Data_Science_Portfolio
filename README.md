@@ -15,6 +15,8 @@ I will showcase some of my work the best higlights my coding abilites!
 
 - Data Visualization makes data look beautiful! [Check these plots out](Data_Visualization.md).  
 
+- Working With Pandas...not the animals the [Dataframes](pandas_dataframes.md). :panda_face:
+
 - This example shows information on [Single Unit Data and Data Visualization](Single_Unit_PSTH_Plots.md).
 
 - Here is a quick visual summary of a great [Ted Talk on EEG Data and Machine Learning](EEG_Mach_TT.md).
