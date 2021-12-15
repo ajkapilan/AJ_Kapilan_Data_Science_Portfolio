@@ -13,17 +13,17 @@ Welcome to my Coding portfolio! I am a Third-Year Neuroscience Undergrad at Dalh
 
 I will showcase some of my work the best higlights my coding abilites!
 
-- Data Visualization makes data look beautiful! [Check these plots out](Data_Visualization.md).  
+- Data Visualization makes data look beautiful! [Check these plots out](Data_Visualization.md). :eyes:  
 
 - Working With Pandas...not the animals the [Dataframes](pandas_dataframe.md). :panda_face:
 
-- This example shows information on [Single Unit Data and Data Visualization](Single_Unit_PSTH_Plots.md).
+- This example shows information on [Single Unit Data and Data Visualization](Single_Unit_PSTH_Plots.md). :part_alternation_mark:
 
-- Here is a quick visual summary of a great [Ted Talk on EEG Data and Machine Learning](EEG_Mach_TT.md).
+- Here is a quick visual summary of a great [Ted Talk on EEG Data and Machine Learning](EEG_Mach_TT.md). :robot: 
 
-- I used Scipy to identify and find different statistical values. [Heres how](One_Tailed_Ttest_EDA.md). 
+- I used Scipy to identify and find different statistical values. [Heres how](One_Tailed_Ttest_EDA.md). :heavy_plus_sign: :heavy_minus_sign:
 
-- Using Python for [Neural Imaging Identification](Neural_Imaging.md). 
+- Using Python for [Neural Imaging Identification](Neural_Imaging.md). :brain: 
 
 If you would like to contact me please email me at:
 [ajkapilan@dal.ca](mailto:ajkapilan@dal.ca)
