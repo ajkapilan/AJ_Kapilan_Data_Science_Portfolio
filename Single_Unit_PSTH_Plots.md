@@ -1,5 +1,5 @@
 ### PSTH for all conditions and contrasts
-This code utilizes single-unit electrode data. The output creates 20 (2 columns by 10 rows) Peri-Stimulus Time Histogram plots. These plots were based of of 10 different stimulus intensities where spacetimes of electrodes were measured.
+This code utilizes single-unit electrode data. The output creates 20 (2 columns by 10 rows) Peri-Stimulus Time Histogram plots. These plots were based of of 10 different stimulus intensities where spacetimes of electrodes were measured. For loops are a powerful tool that allows me to utlize code to run the same code for multiple participants. For long loops like this it is best to go one line at a time and explain to yourself what you are trying to do with this line. Its easier to figure it all out for one participant first and then altering it to fit the rest of the participant data.  
 
 I found this code to be one of the most difficult codes I had created in my short coding lifespan.
 
