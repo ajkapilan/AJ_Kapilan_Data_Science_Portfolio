@@ -26,3 +26,4 @@ In this next example below I used Scipy to remove outliers (+ or - 3 standard de
 ```
 df['rt_z'] = df.groupby('id')['rt_ms'].transform(stats.zscore)
 ```
+![image](https://user-images.githubusercontent.com/94637743/146210405-3d2be974-b8c7-45cc-b1c9-7ff6a2917e9e.png)
