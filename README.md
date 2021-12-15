@@ -19,7 +19,7 @@ I will showcase some of my work the best higlights my coding abilites!
 
 - Here is a quick visual summary of a great [Ted Talk on EEG Data and Machine Learning](EEG_Mach_TT.md).
 
-- I used Scipy to identify T-values. [Heres how](One_Tailed_Ttest_EDA.md). 
+- I used Scipy to identify and find different statistical values. [Heres how](One_Tailed_Ttest_EDA.md). 
 
 - Using Python for [Neural Imaging Identification](
 
