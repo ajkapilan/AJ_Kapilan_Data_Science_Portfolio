@@ -23,7 +23,7 @@ I will showcase some of my work the best higlights my coding abilites!
 
 - I used Scipy to identify and find different statistical values. [Heres how](One_Tailed_Ttest_EDA.md). :heavy_plus_sign: :heavy_minus_sign:
 
-- Using Python for [Neural Imaging Identification](Neural_Imaging.md). :brain:
+- Using Python for [Neural Imaging Identification](Neural_Imaging.md). 🧠
 
 If you would like to contact me please email me at:
 [ajkapilan@dal.ca](mailto:ajkapilan@dal.ca)
