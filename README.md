@@ -1,7 +1,10 @@
 # Welcome
 
 ## About Me
-Welcome to my Coding portfolio! I am a Third-Year Neuroscience Undergrad at Dalhousie University. All the works that have been shown to you today was made from my Data Science class. As a beginner coder/programmer I have learned alot of fun things about coding. Take a look at some of my works!
+Welcome to my Coding portfolio! I am a Third-Year Neuroscience Undergrad at Dalhousie University. 
+All the works that have been shown to you today was made from my Data Science class. 
+As a beginner coder/programmer I have learned alot of fun things about coding. 
+Take a look at some of my works!
 
 ![IMG_4286](https://user-images.githubusercontent.com/94637743/142765958-fdb2c399-764d-44ae-b32d-7f7a44bcdfcf.jpg)
 
