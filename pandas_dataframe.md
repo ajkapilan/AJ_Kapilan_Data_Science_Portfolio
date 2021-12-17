@@ -1,7 +1,16 @@
 # Working with Pandas Dataframes 
-Pandas is a structure to can combine data into tables and structure them so they can be used to look at and evaluate for further investigation. There are an abundant of tools you can use to style, describe, locate specific values etc. in pandas dataframes. 
+Pandas is a structure to can combine data into tables 
+and structure them so they can be used to look at and evaluate 
+for further investigation. There are an abundant of tools you 
+can use to style, describe, locate specific values etc. in pandas dataframes. 
 
-Before working with the dataframes you have to read it into python. Reading in dataframes can be simple since it has a csv function that allows us to quickly read in csv files, but sometimes data files are in other formats like txt (text files). Text files contain backslashes seperating each line so using csv read function you can seperated the data coloumns using the powerful '\' escape key. 
+Before working with the dataframes you have to read it into python. 
+Reading in dataframes can be simple since it has a csv function 
+that allows us to quickly read in csv files, but sometimes data files 
+are in other formats like txt (text files). 
+Text files contain backslashes seperating each line so 
+using csv read function you can seperated the data coloumns using the powerful '\' escape key. 
+
 Below is code to read in different dataframes.
 
 ```
