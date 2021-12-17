@@ -26,4 +26,8 @@ df.head()
 
 Now that the dataframe is read into python properly now you can do some Dataframe styling :sunglasses:
 
-Here is a [link](https://web.microsoftstream.com/video/770329bd-68a1-42ea-8ffd-caedae72e2fd) to a demonstration I did on pandas dataframe styling. Styling is a fun tool in which you can visualize data easier in dataframes and shade in values in the dataframe columns to see which values are higher or lower.  
+Here is a [link](https://web.microsoftstream.com/video/770329bd-68a1-42ea-8ffd-caedae72e2fd) to 
+a demonstration I did on pandas dataframe styling. Styling is a 
+fun tool in which you can visualize data easier in dataframes 
+and shade in values in the dataframe columns to see 
+which values are higher or lower.  
