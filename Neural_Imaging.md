@@ -1,7 +1,15 @@
 # Neuralimaging Data
 
-Python has a special package called MNE. This package allows us to visualize 3d Neuralimaging slices. I assume that the code behind MRI machines and the softwares it uses to highlight different structures to allow radiologist to identify problems within the brain, are based on this basic code. 
-Here I give you two examples of MNE code where the first shows a visualization of a number of slices of an individuals brain, going deep within and out of the structure. The second examples shows the highlighting of structures on an fMRI image of the horizontal plane of the brain. 
+Python has a special package called MNE. 
+This package allows us to visualize 3d Neuralimaging slices. 
+I assume that the code behind MRI machines and the 
+softwares it uses to highlight different structures to allow 
+radiologist to identify problems within the brain, are based on this basic code. 
+Here I give you two examples of MNE code where the first shows 
+a visualization of a number of slices of an individuals brain, 
+going deep within and out of the structure. 
+The second examples shows the highlighting of structures on an 
+fMRI image of the horizontal plane of the brain. 
 
 ### Example 1
 ```
