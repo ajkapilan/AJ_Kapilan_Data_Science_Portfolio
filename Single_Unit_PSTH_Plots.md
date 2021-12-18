@@ -18,26 +18,26 @@ fig, axs = plt.subplots(len(contr_levels), len(conditions[::-1]), figsize=[15,15
 y_max = 0
 
 for t, x in enumerate(contr_levels):
-    for j, c in enumerate(conditions):
-        for r in trials:
-            spike_times = df[(df.neuron == 'm1_6') & (df.condition == c) & (df.contrast == x) & (df.repetition == r)]['spiketime']
-            axs[t, j].hist(spike_times, bins=100)
+    for j, c in enumerate(conditions[::-1]):
+#         for r in trials:  # removed this loop level and one indent for loop body
+        spike_times = df[(df.neuron == 'm1_6') & (df.condition == c) & (df.contrast == x)]['spiketime']  # removed `& (df.repetition == r)`
+        axs[t, j].hist(spike_times, bins=range(0, trial_length, 100), color='pink')
         axs[t, j].axvspan(stim_on_time, stim_off_time,
-                      alpha= x / (max(contr_levels) * 2),
-                      color='grey')
-        axs[t, 0].set_ylabel(str(x) + "%")
-        axs[t, 1].set_ylabel("Number of Spikes")
-        if t == 0:
-            axs[t, 0].set_title('Control Condition', fontsize=10)
-            axs[t, 1].set_title('Adaptation Condition', fontsize=10)
-        if t == 9:
-            axs[t, 1].set_xlabel('Time (ms)')
-            axs[t, 0].set_xlabel('Time (ms)')
-        cur_min, cur_max = axs[t, j].get_ylim()
-        if cur_max > y_max:
-            y_max = cur_max
+                  alpha= x / (max(contr_levels) * 2),
+                  color='grey')
+    axs[t, 0].set_ylabel(str(x) + "%")
+    axs[t, 1].set_ylabel("Number of Spikes")
+    if t == 0:
+        axs[t, 0].set_title('Control Condition', fontsize=10)
+        axs[t, 1].set_title('Adaptation Condition', fontsize=10)
+    if t == 9:
+        axs[t, 1].set_xlabel('Time (ms)')
+        axs[t, 0].set_xlabel('Time (ms)')
+    cur_min, cur_max = axs[t, j].get_ylim()
+    if cur_max > y_max:
+        y_max = cur_max
 for a, v in enumerate(contr_levels):
-    for d, n in enumerate(conditions):
+    for d, n in enumerate(conditions[::-1]):
         axs[a, d].set_ylim(0, y_max)
 fig.suptitle('m1_6 neuron')
 plt.tight_layout()
@@ -46,5 +46,6 @@ plt.show()
 
 Output:
 
-![Screenshot 2021-11-21 131200](https://user-images.githubusercontent.com/94637743/142772038-1728fc34-f7df-47a8-b346-8d04d83def99.png)
+![image](https://user-images.githubusercontent.com/94637743/146644733-4fab2f8e-9219-4353-bda4-b93fa2363060.png)
+
 
